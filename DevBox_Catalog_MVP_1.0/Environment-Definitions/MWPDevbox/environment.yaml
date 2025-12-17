@@ -1,6 +1,0 @@
-
-# SAMPLE ONLY — leave this folder out of the catalog Folder path to avoid ADE scans
-# If you plan to use ADE, replace with a real template and update fields below.
-name: SampleWebApp
-runner: ARM
-templatePath: azuredeploy.json  # MUST point to a real ARM/Bicep/Terraform file
